@@ -1,4 +1,4 @@
-**🍕 Domino’s Pizza Sales Analysis Dashboard (SQL + Power BI)**
+## 🍕 Domino’s Pizza Sales Analysis Dashboard (SQL + Power BI)
 
 **📌 Project Overview**
 
