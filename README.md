@@ -7,7 +7,7 @@ This project is an end-to-end **Data Analytics and Business Intelligence dashboa
 ⚠️ **Disclaimer:**
 The data and brand name used in this project are **sample-based and only for learning purposes**. This is not an official project associated with Domino’s or any commercial organization.
 
-## 🏢 Business Problem
+**🏢 Business Problem**
 
 The pizza business generates large volumes of sales data daily, making it difficult for business managers to manually track performance, understand customer behavior, and identify revenue-driving products. Without a centralized reporting dashboard, the business lacks:
 
@@ -17,7 +17,7 @@ The pizza business generates large volumes of sales data daily, making it diffic
 * Understanding of customer ordering behavior
 * A reliable way to make data-driven promotional and inventory decisions
 
-## 🎯 Goal of the Dashboard
+**🎯 Goal of the Dashboard**
 
 The goal of this dashboard is to transform raw sales data into **actionable insights** by providing:
 * A single source of truth for sales performance
@@ -43,29 +43,25 @@ The goal of this dashboard is to transform raw sales data into **actionable insi
 **Data Modeling** – Relationships between tables
 **Power BI Features** – Slicers, navigation buttons, KPI cards, formatting
 
-## 🔄 Project Workflow
+**🔄 Project Workflow**
 
-### 1️⃣ Data Collection (SQL)
-
+**1. Data Collection (SQL)**
 * Imported data from SQL databases into Power BI
 * Used SQL queries to understand table structure and relationships
 * Ensured data accuracy before analytics phase
 
-### 2️⃣ Data Preparation (Power Query)
-
+**2. Data Preparation (Power Query)**
 * Removed duplicates and null values
 * Standardized column formats (dates, numeric values, text fields)
 * Created conditional columns based on business logic
 * Optimized data types and naming conventions
 
-### 3️⃣ Data Modeling
-
+**3. Data Modeling**
 * Established relationships between tables in Power BI
 * Created a star-schema style model for better performance
 * Validated relationships and filters across tables
 
-### 4️⃣ DAX & Calculations
-
+**4.DAX & Calculations**
 Created measures for:
 * Total Revenue
 * Total Orders
@@ -74,12 +70,12 @@ Created measures for:
 * Average Pizzas per Order
 * Category and size-level performance
 
-## 📊 Dashboard Walkthrough
+**📊 Dashboard Walkthrough**
 
-### 📄 Page 1 — Top & Bottom Sellers View
+**📄 Page 1 — Top & Bottom Sellers View**
 This page focuses on **product performance analysis**.
 
-#### Key Visuals:
+**Key Visuals:**
 **KPI Cards:**
   Displays Total Revenue, Total Orders, Total Pizzas Sold, Average Order Value, and Pizzas per Order.
 **Top 5 / Bottom 5 by Revenue:**
@@ -98,10 +94,10 @@ This page enables quick decisions on:
 * Which items generate profit vs volume
 
 
-### 📄 Page 2 — Sales Trends & Category Performance
+**📄 Page 2 — Sales Trends & Category Performance**
 This page focuses on **time-based analysis and customer behavior.**
 
-#### Key Visuals:
+**Key Visuals:**
 * **Daily Trend Chart:**
   Highlights which days have higher order volume.
 * **Monthly Trend Chart:**
@@ -118,7 +114,7 @@ This page supports:
 * Scheduling staff during peak days
 * Planning seasonal offers
 
-## 📈 Business Impact
+**📈 Business Impact**
 
 This dashboard helps the business:
 * Increase revenue through targeted promotions
@@ -127,7 +123,7 @@ This dashboard helps the business:
 * Allocate resources efficiently during peak hours
 * Monitor performance in real time
   
-## 🔍 Key Business Insights
+**🔍 Key Business Insights**
 
 * **Classic category** contributes the highest sales and order volume.
 * **Large-size pizzas** dominate revenue and demand.
@@ -135,7 +131,7 @@ This dashboard helps the business:
 * **January and July** record the highest order volumes.
 * Certain pizzas consistently underperform and may require repricing or redesign.
 
-## 🌟 Features
+**🌟 Features**
 
 * Two interactive dashboard pages
 * Dynamic date range filters
@@ -146,7 +142,7 @@ This dashboard helps the business:
 * KPI cards for quick summary
 * Category and size-level segmentation
 
-## 📈 Learning Outcomes
+**📈 Learning Outcomes**
 
 * Improved SQL querying skills
 * Hands-on DAX implementation
@@ -154,4 +150,5 @@ This dashboard helps the business:
 * Understanding business requirements from data
 * Creating insightful and executive-level reporting
 
-  ## Screenshot of dashboard: https://github.com/AHK-999/Domino-s-Pizza-Sales-Dashboard/blob/main/Dashboard%20Image.jpg
+  **Screenshot of dashboard:**
+   https://github.com/AHK-999/Domino-s-Pizza-Sales-Dashboard/blob/main/Dashboard%20Image.jpg
