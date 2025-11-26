@@ -154,6 +154,4 @@ This dashboard helps the business:
 * Understanding business requirements from data
 * Creating insightful and executive-level reporting
 
-  ## Screenshot of dashboard: 
-
-## 🤝 Connect With Me
+  ## Screenshot of dashboard: https://github.com/AHK-999/Domino-s-Pizza-Sales-Dashboard/blob/main/Dashboard%20Image.jpg
